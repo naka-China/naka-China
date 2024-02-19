@@ -1,7 +1,7 @@
 hello,I'm@naka-china.😘
 I'm a Chinese.😎
 I live in China🧨
-Our contry is very beautival.
+Our country is very beautival.
 The following will be conducted in Chinese：
 你好啊~~
 我是住在河北的一名程序猿，专注代码开发，有一些项目也可以让我开发一部分~~
